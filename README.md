@@ -4,7 +4,7 @@ This fork of Bahmni Apps was developed and customized to support Ethiopian Healt
 
 # Contributing to Bahmni Apps for Ethiopia 
 
-If interested in contributing and collaborating on this project please reach out to the maintainers at SHF_consulting@gmail.com 
+If interested in contributing and collaborating on this project please reach out to the maintainers at Consultingshf@gmail.com
 
 # Building Bahmni Apps for Ethiopia 
 For building and testing instruction please follow the instructions outlined in the Bahmni Apps page. 
